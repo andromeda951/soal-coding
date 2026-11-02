@@ -14,10 +14,33 @@ for x in range(n-2):
 # hangman: tebak kata
 # projek tebak angka
 
- _______
- |     |     
- |     o 
- |    /|\
- |     |
- |    / \  
----
+#  _______
+#  |     |     
+#  |     o 
+#  |    /|\
+#  |     |
+#  |    / \  
+# ---
+
+# f(x) = 2x
+
+# f(1) = 2*1=2
+# f(5) = 2*5=10
+
+# f(x,y) = 2x+y
+# f(3,5) =2*3 + 5 = 11
+
+# input  -> mesin -> output
+
+# frontend 
+# backend
+# QE
+# cloud computing
+# android programming
+
+# data 
+
+# 
+
+
+
